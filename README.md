@@ -39,6 +39,7 @@ console.log(maskedInput); // Output: (123) 456-7890
 ## 📆 Release Date
 
 * v1.0.0 : 08 March 2024
+* v1.0.1 : 11 March 2024
 
 ## 🧑 Author
 
