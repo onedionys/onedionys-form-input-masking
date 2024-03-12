@@ -1,6 +1,6 @@
 {
   "name": "onedionys-form-input-masking",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (Form Input Masking) - Functions for adding input patterns to forms such as phone number or postal code formats.",
   "main": "src/form-input-masking.js",
   "directories": {
