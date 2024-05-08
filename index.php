@@ -1,7 +1,9 @@
 <?php
 
+ini_set('max_execution_time', 0);
+
 // Kalimat yang akan ditambahkan ke README.md
-$kalimat = 'FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/> </a>
+$kalimat = 'coffee&logoColor=black"/> </a>
 
 **Made with ❤️ One Dionys**';
 
