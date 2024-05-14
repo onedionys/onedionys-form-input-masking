@@ -6,6 +6,7 @@ ini_set('max_execution_time', 0);
 $kalimat = '-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/> </a>
 
 **Made with ❤️ One Dionys**';
+shell_exec('git add . && git commit -m "chore: update readme to fill block activity" && git push');
 
 // Buka file README.md untuk ditulis
 // $file = fopen("README.md", "a") or die("Tidak bisa membuka file README.md!");
