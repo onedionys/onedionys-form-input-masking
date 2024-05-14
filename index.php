@@ -8,17 +8,17 @@ $kalimat = '-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/> 
 **Made with ❤️ One Dionys**';
 
 // Buka file README.md untuk ditulis
-$file = fopen("README.md", "a") or die("Tidak bisa membuka file README.md!");
+// $file = fopen("README.md", "a") or die("Tidak bisa membuka file README.md!");
 
-// Tulis setiap karakter dari kalimat ke dalam file README.md
-for ($i = 0; $i < strlen($kalimat); $i++) {
-    fwrite($file, $kalimat[$i]);
+// // Tulis setiap karakter dari kalimat ke dalam file README.md
+// for ($i = 0; $i < strlen($kalimat); $i++) {
+//     fwrite($file, $kalimat[$i]);
 
-    shell_exec('git add . && git commit -m "chore: update readme to fill block activity" && git push');
-}
+//     shell_exec('git add . && git commit -m "chore: update readme to fill block activity" && git push');
+// }
 
-// Tutup file README.md
-fclose($file);
+// // Tutup file README.md
+// fclose($file);
 
 echo "Kalimat berhasil ditambahkan ke README.md.";
 
