@@ -61,4 +61,4 @@ console.log(maskedInput); // Output: (123) 456-7890
 
 Love One Dionys - Form Input Masking? Support this project by donating or sharing with others in need.
 
-<a href="https://www.buymeacoffee.com/onedionys"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-
+<a href="https://www.buymeacoffee.com/onedionys"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-b
